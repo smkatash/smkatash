@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 ### Languages and Tools:
 
 [<img align="left" alt="C" width="26px" src="./img/c.svg" />](https://twitter.com/sirelaw#gh-light-mode-only)
