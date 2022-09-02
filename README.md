@@ -3,7 +3,7 @@
 
 ### Languages and Tools:
 
-![Kany's GitHub stats](https://github-readme-stats.vercel.app/api?username=smkatash&show_icons=true&theme=radical)
+![Kany's GitHub stats](https://github-readme-stats.vercel.app/api?username=smkatash&show_icons=true&theme=gradient)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smkatash&theme=gruvbox&count_private=true)](https://github.com/anuraghazra/github-readme-stats)<br>
 
