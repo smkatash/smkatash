@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Kany and I have a Master's Degree in Technical Logsitics.
+My name is Kany and I have a Master's Degree in Technical Logistics.
 
-I made a career switch and am currently learning computer programming at 42Heilbronn.
+I am currently learning computer programming at 42Heilbronn.
 
 ### Languages and Tools:
 
