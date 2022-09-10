@@ -2,7 +2,7 @@
 
 My name is Kany and I have a Master's Degree in Technical Logistics.
 
-I am currently learning computer programming at 42Heilbronn.
+I am currently studying software engineering at 42Heilbronn.
 
 ### Languages and Tools:
 
