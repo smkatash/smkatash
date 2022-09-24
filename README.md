@@ -10,7 +10,7 @@ I am currently studying software engineering at 42Heilbronn.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smkatash&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
 
-![image](https://user-images.githubusercontent.com/76934648/192119621-2286178b-153e-4521-bd34-7155170bc320.png)
+<img width="500" alt="image" src= "https://user-images.githubusercontent.com/76934648/192119621-2286178b-153e-4521-bd34-7155170bc320.png">
 
 
 # More stats:
