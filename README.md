@@ -4,6 +4,8 @@ My name is Kany and I have a Master's Degree in Technical Logistics.
 
 I am currently studying software engineering at 42Heilbronn.
 
+https://www.hackerrank.com/certificates/48ba0c6213e9
+
 ### Languages and Tools:
 
 ![Kany's GitHub stats](https://github-readme-stats.vercel.app/api?username=smkatash&show_icons=true&theme=radical)
