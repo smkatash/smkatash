@@ -8,4 +8,4 @@ I am currently studying software engineering at 42Heilbronn.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smkatash&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
 
-![Leetcode Stats](https://leetcard.smkatash/smkatash)
+![Leetcode Stats](https://leetcode.com/smkatash/)
