@@ -10,6 +10,3 @@ I am currently studying software engineering at 42Heilbronn.
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/smkatash?ext=heatmap)
 
-
-
-![](https://komarev.com/ghpvc/?username=smkatash&style=for-the-badge)
