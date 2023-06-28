@@ -6,4 +6,4 @@ I am currently studying software engineering at 42Heilbronn.
 
 Check out [my portfolio](https://smkatash.github.io/portfolio/) 🌻
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smkatash&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smkatash&layout=compact)
