@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Kany and I have a Master's Degree in Technical Logistics.
+My name is Kany, a 42Heilbronn Alumni.
 
-I am currently studying software engineering at 42Heilbronn.
+I am currently enrolled at École 42 for specialization projects.
 
 Check out [my portfolio](https://smkatash.github.io/portfolio/) 🌻
 
