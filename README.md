@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-My name is Kany, a 42Heilbronn Alumni.
+My name is Kany, an École 42 Alumni.
 
-I am currently enrolled at École 42 for specialization projects.🌻
 
